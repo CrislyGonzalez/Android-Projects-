@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="tec_santa_clara_full_snippet">La sede regional ubicada en Santa Clara de San Carlos, en la región
+        tropical húmeda, se encuentra a 105 kilómetros de San José y a 170
+        metros sobre el nivel del mar, con una temperatura media anual de 26º C.</string>
+
+    <string name="toscanaText">Excelente café y deliciosos arrollados de canela</string>
+
+
+    <string name="marker_detail_latlng">Hola</string>
+
+</resources>

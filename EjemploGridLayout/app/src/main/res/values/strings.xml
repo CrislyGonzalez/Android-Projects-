@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EjemploGridLayout</string>
+    <string name="title_activity_main_relative_layout">MainActivityRelativeLayout</string>
+</resources>
